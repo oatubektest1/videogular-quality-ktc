@@ -7,7 +7,7 @@ Installation
 ------------
 
 ```
-bower install https://github.com/oatubektest1/videogular-quality-ktc.git
+bower install https://github.com/oatubektest1/videogular-quality-ktc.git --save
 ```
 
 Usage
