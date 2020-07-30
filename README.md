@@ -7,7 +7,7 @@ Installation
 ------------
 
 ```
-bower install videogular-quality
+bower install https://github.com/oatubektest1/videogular-quality-ktc
 ```
 
 Usage
