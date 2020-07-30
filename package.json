@@ -1,0 +1,41 @@
+{
+  "_from": "videogular-quality-ktc",
+  "_id": "videogular-quality@1.0.0",
+  "_inBundle": false,
+  "_integrity": "sha1-8D966I3VT01Ej0eAx4U32C7NJx4=",
+  "_location": "/videogular-quality",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "tag",
+    "registry": true,
+    "raw": "videogular-quality",
+    "name": "videogular-quality",
+    "escapedName": "videogular-quality",
+    "rawSpec": "",
+    "saveSpec": null,
+    "fetchSpec": "latest"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/videogular-quality/-/videogular-quality-1.0.0.tgz",
+  "_shasum": "f03f7ae88dd54f4d448f4780c78537d82ecd271e",
+  "_spec": "videogular-quality",
+  "_where": "D:\\source\\me\\oatube\\src\\oatube_cms_theme",
+  "bundleDependencies": false,
+  "dependencies": {},
+  "deprecated": false,
+  "description": "Videogular Quality Plugin",
+  "devDependencies": {
+    "grunt": "^0.4.1",
+    "grunt-contrib-connect": "^0.7.1",
+    "grunt-contrib-watch": "^0.6.1",
+    "load-grunt-tasks": "^0.4.0"
+  },
+  "engines": {
+    "node": ">=0.10.0"
+  },
+  "name": "videogular-quality",
+  "version": "1.0.0"
+}

@@ -1,0 +1,21 @@
+{
+	"name": "videogular-quality",
+	"version": "0.1.0",
+	"homepage": "https://github.com/noppolp/videogular-quality",
+	"description": "Videogular plugin for video quality selection",
+	"license": "MIT",
+	"authors": [
+		{ "name": "Noppol Pilukruangdet" }
+	],
+
+	"main": "vg-quality.js",
+	"dependencies": {
+		"videogular-controls": "latest",
+		"videogular-dash": "git@github.com:noppolp/bower-videogular-dash.git#master",
+		"dash": "git@github.com:Dash-Industry-Forum/dash.js.git#master"
+	},
+	"ignore": [
+		"**/.*",
+		"**/*.md"
+	]
+}
